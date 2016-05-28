@@ -773,15 +773,6 @@ if __name__ == "__main__":
 
         from distutils.core import setup, Extension
 
-        setup(name="RBTree",
-            version=__version__,
-            description="Red/Black Tree",
-            long_description="Red/Black Balanced Binary Tree plus Dictionary",
-            author="Chris Gonnerman; Graham Breed and Charles Tolman",
-            author_email="chris.gonnerman@newcenturycomputers.net",
-            url="http://newcenturycomputers.net/projects/rbtree.html",
-            py_modules=["RBTree"]
-        )
     sys.exit(0)
 
 
