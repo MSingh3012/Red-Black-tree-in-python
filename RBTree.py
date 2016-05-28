@@ -1,25 +1,7 @@
-#!/usr/bin/env python
-#
-# This code adapted from C source from
-# Thomas Niemann's Sorting and Searching Algorithms: A Cookbook
-#
-# From the title page:
-#   Permission to reproduce this document, in whole or in part, is
-#   given provided the original web site listed below is referenced,
-#   and no additional restrictions apply. Source code, when part of
-#   a software project, may be used freely without reference to the
-#   author.
-#
-# Adapted by Chris Gonnerman <chris.gonnerman@newcenturycomputers.net>
-#        and Graham Breed
-#
-# Adapted by Charles Tolman <ct@acm.org>
-#        inheritance from object class
-#        added RBTreeIter class
-#        added lastNode and prevNode routines to RBTree
-#        added RBList class and associated tests
 
-__version__ = "1.5"
+#   Red Black Tree implementaion in Python
+#   Created By Manpreet Singh
+#
 
 import string
 
